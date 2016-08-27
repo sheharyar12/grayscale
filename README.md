@@ -1,0 +1,2 @@
+# grayscale
+OCR Class
